@@ -63,5 +63,10 @@
         "name": "Abin Simon's Blog",
         "url": "https://blog.meain.io/",
         "tags": ["Web Development"]
+    },
+    {
+        "name": "Lee Robinson's Blog",
+        "url": "https://leerob.io/blog",
+        "tags": ["Web Development", "Nextjs"]
     }
 ]
