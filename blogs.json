@@ -68,5 +68,15 @@
         "name": "Lee Robinson's Blog",
         "url": "https://leerob.io/blog",
         "tags": ["Web Development", "Nextjs"]
+    },
+    {
+       "name": "Itamar Turner-Trauring's Blog",
+       "url": "https://pythonspeed.com",
+       "tags": ["Python", "Performance"]
+    },
+    {
+       "name": "Jason Brownlee's Blog",
+       "url": "https://superfastpython.com",
+       "tags": ["Python", "Concurrency"]
     }
 ]
