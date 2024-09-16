@@ -78,5 +78,10 @@
        "name": "Jason Brownlee's Blog",
        "url": "https://superfastpython.com",
        "tags": ["Python", "Concurrency"]
+    },
+    {
+       "name": "thoughtbot's Blog",
+       "url": "https://thoughtbot.com/blog",
+       "tags": ["Design", "Product Management"]
     }
 ]
