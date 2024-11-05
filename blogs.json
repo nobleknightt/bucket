@@ -83,5 +83,10 @@
        "name": "thoughtbot's Blog",
        "url": "https://thoughtbot.com/blog",
        "tags": ["Design", "Product Management"]
+    },
+    {
+       "name": "Armin Ronacher's Blog",
+       "url": "https://lucumr.pocoo.org",
+       "tags": ["Python", "Rust", "Open Source"]
     }
 ]
