@@ -88,5 +88,15 @@
        "name": "Armin Ronacher's Blog",
        "url": "https://lucumr.pocoo.org",
        "tags": ["Python", "Rust", "Open Source"]
+    },
+    {
+       "name": "Dave Cheney's Blog",
+       "url": "https://dave.cheney.net",
+       "tags": ["Go"]
+    },
+    {
+       "name": "Caleb Doxsey's Blog",
+       "url": "https://www.doxsey.net/blog",
+       "tags": ["Go"]
     }
 ]
