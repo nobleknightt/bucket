@@ -98,5 +98,45 @@
        "name": "Caleb Doxsey's Blog",
        "url": "https://www.doxsey.net/blog",
        "tags": ["Go"]
+    },
+    {
+       "name": "Tom Niget's Blog",
+       "url": "https://zdimension.fr",
+       "tags": ["Rust", "Data Science", "Compilers"]
+    },
+    {
+       "name": "Sophie Alpert's Blog",
+       "url": "https://sophiebits.com/",
+       "tags": ["React"]
+    },
+    {
+       "name": "Overreacted by Dan Abramov",
+       "url": "https://overreacted.io",
+       "tags": ["React"]
+    },
+    {
+       "name": "Maggie Appleton's Blog",
+       "url": "https://maggieappleton.com",
+       "tags": ["UX Design"]
+    },
+    {
+       "name": "Nikolas Barwicki's Blog",
+       "url": "https://nikolasbarwicki.com",
+       "tags": ["JavaScript"]
+    },
+    {
+       "name": "Theodorus Clarence's Blog",
+       "url": "https://theodorusclarence.com",
+       "tags": ["NextJS"]
+    },
+    {
+       "name": "Evil Martians's Blog",
+       "url": "https://evilmartians.com/chronicles",
+       "tags": ["Software Development", "Ruby on Rails"]
+    },
+    {
+       "name": "ui.dev's Blog",
+       "url": "https://ui.dev/blog",
+       "tags": ["JavaScript", "React"]
     }
 ]
