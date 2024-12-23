@@ -138,5 +138,10 @@
        "name": "ui.dev's Blog",
        "url": "https://ui.dev/blog",
        "tags": ["JavaScript", "React"]
+    },
+    {
+       "name": "Avinash Sajjanshetty's Blog",
+       "url": "https://avi.im/blag",
+       "tags": ["SQLite"]
     }
 ]
