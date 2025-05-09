@@ -143,5 +143,10 @@
        "name": "Avinash Sajjanshetty's Blog",
        "url": "https://avi.im/blag",
        "tags": ["SQLite"]
+    },
+    {
+       "name": "Jonathon Belotti's Blog",
+       "url": "https://thundergolfer.com/blog/",
+       "tags": ["Software Engineering"]
     }
 ]
