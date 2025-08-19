@@ -1,152 +1,239 @@
 [
-    {
-        "name": "System Design in a Hurry",
-        "url": "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
-        "tags": ["System Design"]
-    },
-    {
-        "name": "Alex Saveau's Blog",
-        "url": "https://alexsaveau.dev/",
-        "tags": ["Software Development"]
-    },
-    {
-        "name": "Josh Comeau's Blog",
-        "url": "https://www.joshwcomeau.com/",
-        "tags": ["Web Development"]
-    },
-    {
-        "name": "Amos Wenger's Blog",
-        "url": "https://fasterthanli.me/",
-        "tags": ["Rust", "Software Development"]
-    },
-    {
-        "name": "Total TypeScript",
-        "url": "https://www.totaltypescript.com/",
-        "tags": ["TypeScript"]
-    },
-    {
-        "name": "Kent C. Dodds's Blog",
-        "url": "https://kentcdodds.com/blog",
-        "tags": ["Web Development"]
-    },
-    {
-        "name": "Neo Kim's Newsletter",
-        "url": "https://newsletter.systemdesign.one/",
-        "tags": ["System Design"]
-    },
-    {
-        "name": "Julia Evans' Blog",
-        "url": "https://jvns.ca/",
-        "tags": ["Computer Science"]
-    },
-    {
-        "name": "Shawn Wang's Blog",
-        "url": "https://www.swyx.io/",
-        "tags": ["Software Engineering", "Career"]
-    },
-    {
-        "name": "Phil Eaton's Blog",
-        "url": "https://eatonphil.com/",
-        "tags": ["Software Development", "Computer Science"]
-    },
-    {
-        "name": "Mux.com's Blog",
-        "url": "https://www.mux.com/blog",
-        "tags": ["Web Development"]
-    },
-    {
-        "name": "Tania's Blog",
-        "url": "https://www.taniarascia.com/",
-        "tags": ["Web Development"]
-    },
-    {
-        "name": "Abin Simon's Blog",
-        "url": "https://blog.meain.io/",
-        "tags": ["Web Development"]
-    },
-    {
-        "name": "Lee Robinson's Blog",
-        "url": "https://leerob.io/blog",
-        "tags": ["Web Development", "Nextjs"]
-    },
-    {
-       "name": "Itamar Turner-Trauring's Blog",
-       "url": "https://pythonspeed.com",
-       "tags": ["Python", "Performance"]
-    },
-    {
-       "name": "Jason Brownlee's Blog",
-       "url": "https://superfastpython.com",
-       "tags": ["Python", "Concurrency"]
-    },
-    {
-       "name": "thoughtbot's Blog",
-       "url": "https://thoughtbot.com/blog",
-       "tags": ["Design", "Product Management"]
-    },
-    {
-       "name": "Armin Ronacher's Blog",
-       "url": "https://lucumr.pocoo.org",
-       "tags": ["Python", "Rust", "Open Source"]
-    },
-    {
-       "name": "Dave Cheney's Blog",
-       "url": "https://dave.cheney.net",
-       "tags": ["Go"]
-    },
-    {
-       "name": "Caleb Doxsey's Blog",
-       "url": "https://www.doxsey.net/blog",
-       "tags": ["Go"]
-    },
-    {
-       "name": "Tom Niget's Blog",
-       "url": "https://zdimension.fr",
-       "tags": ["Rust", "Data Science", "Compilers"]
-    },
-    {
-       "name": "Sophie Alpert's Blog",
-       "url": "https://sophiebits.com/",
-       "tags": ["React"]
-    },
-    {
-       "name": "Overreacted by Dan Abramov",
-       "url": "https://overreacted.io",
-       "tags": ["React"]
-    },
-    {
-       "name": "Maggie Appleton's Blog",
-       "url": "https://maggieappleton.com",
-       "tags": ["UX Design"]
-    },
-    {
-       "name": "Nikolas Barwicki's Blog",
-       "url": "https://nikolasbarwicki.com",
-       "tags": ["JavaScript"]
-    },
-    {
-       "name": "Theodorus Clarence's Blog",
-       "url": "https://theodorusclarence.com",
-       "tags": ["NextJS"]
-    },
-    {
-       "name": "Evil Martians's Blog",
-       "url": "https://evilmartians.com/chronicles",
-       "tags": ["Software Development", "Ruby on Rails"]
-    },
-    {
-       "name": "ui.dev's Blog",
-       "url": "https://ui.dev/blog",
-       "tags": ["JavaScript", "React"]
-    },
-    {
-       "name": "Avinash Sajjanshetty's Blog",
-       "url": "https://avi.im/blag",
-       "tags": ["SQLite"]
-    },
-    {
-       "name": "Jonathon Belotti's Blog",
-       "url": "https://thundergolfer.com/blog/",
-       "tags": ["Software Engineering"]
-    }
+	{
+		"name": "System Design in a Hurry",
+		"url": "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
+		"tags": [
+			"System Design"
+		]
+	},
+	{
+		"name": "Alex Saveau's Blog",
+		"url": "https://alexsaveau.dev/",
+		"tags": [
+			"Software Development"
+		]
+	},
+	{
+		"name": "Josh Comeau's Blog",
+		"url": "https://www.joshwcomeau.com/",
+		"tags": [
+			"Web Development"
+		]
+	},
+	{
+		"name": "Amos Wenger's Blog",
+		"url": "https://fasterthanli.me/",
+		"tags": [
+			"Rust",
+			"Software Development"
+		]
+	},
+	{
+		"name": "Total TypeScript",
+		"url": "https://www.totaltypescript.com/",
+		"tags": [
+			"TypeScript"
+		]
+	},
+	{
+		"name": "Kent C. Dodds's Blog",
+		"url": "https://kentcdodds.com/blog",
+		"tags": [
+			"Web Development"
+		]
+	},
+	{
+		"name": "Neo Kim's Newsletter",
+		"url": "https://newsletter.systemdesign.one/",
+		"tags": [
+			"System Design"
+		]
+	},
+	{
+		"name": "Julia Evans' Blog",
+		"url": "https://jvns.ca/",
+		"tags": [
+			"Computer Science"
+		]
+	},
+	{
+		"name": "Shawn Wang's Blog",
+		"url": "https://www.swyx.io/",
+		"tags": [
+			"Software Engineering",
+			"Career"
+		]
+	},
+	{
+		"name": "Phil Eaton's Blog",
+		"url": "https://eatonphil.com/",
+		"tags": [
+			"Software Development",
+			"Computer Science"
+		]
+	},
+	{
+		"name": "Mux.com's Blog",
+		"url": "https://www.mux.com/blog",
+		"tags": [
+			"Web Development"
+		]
+	},
+	{
+		"name": "Tania's Blog",
+		"url": "https://www.taniarascia.com/",
+		"tags": [
+			"Web Development"
+		]
+	},
+	{
+		"name": "Abin Simon's Blog",
+		"url": "https://blog.meain.io/",
+		"tags": [
+			"Web Development"
+		]
+	},
+	{
+		"name": "Lee Robinson's Blog",
+		"url": "https://leerob.io/blog",
+		"tags": [
+			"Web Development",
+			"Nextjs"
+		]
+	},
+	{
+		"name": "Itamar Turner-Trauring's Blog",
+		"url": "https://pythonspeed.com",
+		"tags": [
+			"Python",
+			"Performance"
+		]
+	},
+	{
+		"name": "Jason Brownlee's Blog",
+		"url": "https://superfastpython.com",
+		"tags": [
+			"Python",
+			"Concurrency"
+		]
+	},
+	{
+		"name": "thoughtbot's Blog",
+		"url": "https://thoughtbot.com/blog",
+		"tags": [
+			"Design",
+			"Product Management"
+		]
+	},
+	{
+		"name": "Armin Ronacher's Blog",
+		"url": "https://lucumr.pocoo.org",
+		"tags": [
+			"Python",
+			"Rust",
+			"Open Source"
+		]
+	},
+	{
+		"name": "Dave Cheney's Blog",
+		"url": "https://dave.cheney.net",
+		"tags": [
+			"Go"
+		]
+	},
+	{
+		"name": "Caleb Doxsey's Blog",
+		"url": "https://www.doxsey.net/blog",
+		"tags": [
+			"Go"
+		]
+	},
+	{
+		"name": "Tom Niget's Blog",
+		"url": "https://zdimension.fr",
+		"tags": [
+			"Rust",
+			"Data Science",
+			"Compilers"
+		]
+	},
+	{
+		"name": "Sophie Alpert's Blog",
+		"url": "https://sophiebits.com/",
+		"tags": [
+			"React"
+		]
+	},
+	{
+		"name": "Overreacted by Dan Abramov",
+		"url": "https://overreacted.io",
+		"tags": [
+			"React"
+		]
+	},
+	{
+		"name": "Maggie Appleton's Blog",
+		"url": "https://maggieappleton.com",
+		"tags": [
+			"UX Design"
+		]
+	},
+	{
+		"name": "Nikolas Barwicki's Blog",
+		"url": "https://nikolasbarwicki.com",
+		"tags": [
+			"JavaScript"
+		]
+	},
+	{
+		"name": "Theodorus Clarence's Blog",
+		"url": "https://theodorusclarence.com",
+		"tags": [
+			"NextJS"
+		]
+	},
+	{
+		"name": "Evil Martians's Blog",
+		"url": "https://evilmartians.com/chronicles",
+		"tags": [
+			"Software Development",
+			"Ruby on Rails"
+		]
+	},
+	{
+		"name": "ui.dev's Blog",
+		"url": "https://ui.dev/blog",
+		"tags": [
+			"JavaScript",
+			"React"
+		]
+	},
+	{
+		"name": "Avinash Sajjanshetty's Blog",
+		"url": "https://avi.im/blag",
+		"tags": [
+			"SQLite"
+		]
+	},
+	{
+		"name": "Jonathon Belotti's Blog",
+		"url": "https://thundergolfer.com/blog",
+		"tags": [
+			"Software Engineering"
+		]
+	},
+	{
+		"name": "Emil Kowalski's Blog",
+		"url": "https://emilkowal.ski",
+		"tags": [
+			"User Interface Design"
+		]
+	},
+	{
+		"name": "Julian's Blog",
+		"url": "https://julian.digital",
+		"tags": [
+			"User Interface Design"
+		]
+	}
 ]
